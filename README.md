@@ -27,20 +27,22 @@ Table of Contents
 </summary>
 
 * [Built With](#built-with)
-  * [Major languages:](#major-languages)
-  * [Framework:](#framework)
+  * [Major languages](#major-languages)
+  * [Frameworks](#frameworks)
+* [Front-end Repository](#front-end-repository)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Setup](#setup)
   * [Install](#install)
   * [Usage](#usage)
-* [Authors](#authors)
+* [Author](#author)
 * [Contributing](#contributing)
 * [Show your support](#show-your-support)
 * [Acknowledgments](#acknowledgments)
 * [License](#license)
 
 </details>
+
 
 ## Built With
 
@@ -53,6 +55,10 @@ Table of Contents
 
  - Ruby on Rails
  - React
+
+## Front-end Repository
+
+- [ hello-react-front-end ]( https://github.com/andres-condezo/hello-react-front-end ) 
 
 ## Getting Started
 
